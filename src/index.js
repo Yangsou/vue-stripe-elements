@@ -5,11 +5,13 @@ import Card from './Card'
 import CardExpiry from './CardExpiry'
 import CardCvc from './CardCvc'
 import CardNumber from './CardNumber'
+import CardName from './CardName'
 import PostalCode from './PostalCode'
 
 module.exports = {
   Card,
   CardNumber,
+  CardName,
   CardExpiry,
   CardCvc,
   PostalCode,
